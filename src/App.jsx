@@ -1,6 +1,6 @@
 import React,{ useContext } from 'react'
 import GestorContext, { ThemeContext } from './context/GestorContext'
-import BotonTheme from './components/botonTheme'
+import BotonTheme from './components/BotonTheme'
 import Body from './components/Body'
 import NavBar from './components/navbar/NavBar'
 

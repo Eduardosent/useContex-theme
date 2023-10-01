@@ -1,6 +1,6 @@
 import React,{useContext} from 'react'
 import { ThemeContext } from '../context/GestorContext'
-import BotonTheme from './botonTheme'
+import BotonTheme from './BotonTheme'
 import '../index.css'
 import NavBar from './navbar/NavBar';
 
