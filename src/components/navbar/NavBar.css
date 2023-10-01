@@ -1,0 +1,20 @@
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    gap: 0;
+}
+.nav-bar a {
+    font-size: .8rem;
+    text-decoration: none;
+    color: black;
+    padding: .7rem 0;
+    width: 100%;
+    text-align: center;
+}
+@media(min-width: 250px){
+    .nav-bar a{
+        font-size: 1rem;
+    }
+}
